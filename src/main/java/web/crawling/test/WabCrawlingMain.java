@@ -2,7 +2,6 @@ package web.crawling.test;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
